@@ -1,6 +1,7 @@
 # nanoGPT Chatbot
 
-This repository contains a tiny **character‑level GPT** implementation based on Andrej Karpathy's nanoGPT tutorial, extended with a simple interactive chatbot interface.
+A 0.2 M parameter very small language model primary trained to tell the childhood stories like farry tales.
+An experimental project build for lerning perposes
 
 ## Features
 - **Transformer architecture** with multi‑head self‑attention and feed‑forward layers.
