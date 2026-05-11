@@ -19,7 +19,7 @@ An experimental project build for lerning perposes
   - `n_layer = 4`
   - `learning_rate = 1e-3`
   - `max_iters = 5000`
-- **Training data**: a text file `clalong_childhood_fantasy_stories.txt` (your custom fantasy story corpus).  The script builds a character‑level vocabulary, encodes the text, and splits it 90 %/10 % for training/validation.
+- **Training data**: a text file `clalong_childhood_fantasy_stories.txt` (your custom fantasy story corpus).  The script builds a character‑level vocabulary, encodes the text
 - **Generation**: `model.generate` samples tokens autoregressively using softmax probabilities.
 - **Chat loop** (`chat()`):
   ```python
